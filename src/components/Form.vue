@@ -1,6 +1,6 @@
 <template>
     <div id="form">
-        <h5>Erwan Bouvron - Kuartz</h5>
+        <h5>Erwan Bouvron - Kanban</h5>
         <div id="header">
             <div class="div_title">
                 <label for="title">Title</label>
