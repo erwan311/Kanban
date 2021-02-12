@@ -1,4 +1,4 @@
-# Erwan_Bouvron_VueJs_Kuartz
+# Erwan Bouvron Kanban
 
 Pour installer les dépendances, il faut installer node : https://nodejs.org/en/
 - npm install
