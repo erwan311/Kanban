@@ -1,5 +1,7 @@
 # Erwan Bouvron Kanban
 
+L'application est disponible sur Netlify: https://erwan-kanban.netlify.app/
+
 Pour installer les dépendances, il faut installer node : https://nodejs.org/en/
 - npm install
 - npm run serve
